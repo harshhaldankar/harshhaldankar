@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Data Analyst | Data Scientist<br>Turning data into insights & models.<br>Analyzing data, building models.<br>Data enthusiast. Python & R.<br>Unlocking patterns in data.
 
 
